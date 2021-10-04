@@ -1,10 +1,12 @@
-#include<stdio.h>
+#include <iostream>
+using namespace std;
 
-int main()
-{
-    int a,b,c;
-    scanf("%d %d",&a,&b);
-    c = a+b;
-    cout("%d",) ;
-}
+int main() {
+	int x, y;
+int sum;
+cin >> x;
+cin >> y;
+sum = x + y;
+cout << "Sum is: " << sum;
+	return 0;
 }
