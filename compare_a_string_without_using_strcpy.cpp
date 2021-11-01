@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-     char str1[50],str2[50],i=0,j=0,flag=0
+     char str1[50],str2[50],i=0,j=0,flag=0;
      gets(str1);
      gets(str2);
 
