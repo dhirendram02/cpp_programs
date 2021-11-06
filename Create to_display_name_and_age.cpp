@@ -7,6 +7,6 @@ int main() {
   cin.getline(name,max_length);
   cin>>age;
   cout<<"name:  "<<name<<endl;
-  cout<<"age:   "<<age<<endl:
+  cout<<"age:   "<<age<<endl;
 	return 0;
 }

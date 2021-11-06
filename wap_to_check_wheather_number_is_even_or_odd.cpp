@@ -9,7 +9,7 @@ int main(){
   }
   else
   {
-    cout<<n<<is odd";
+    cout<<n<<"is odd";
     }
   
   return 0;
