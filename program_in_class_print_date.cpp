@@ -9,10 +9,11 @@ class date
      int yy;
 
     public:
+      date(){
       int d=22;
      int  mm=12;
       int yy=2018;
-
+      }
     void display(){
         cout<<d<<"-"<<mm<<"-"<<yy;
     }
